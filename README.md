@@ -29,7 +29,7 @@ A modern, responsive weather application built with React. It supports real-time
 
 ## 🚀 Live Demo
 
-You can try the deployed version here: https://vercel.com/mohits-projects-899679db
+You can try the deployed version here: https://weather-app-react-15.vercel.app/
 
 ---
 
